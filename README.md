@@ -121,6 +121,6 @@ ISC
 
 ## Author
 
-Your Name Here
+PMT Vithanage
 
 Enjoy the game! 🎮
